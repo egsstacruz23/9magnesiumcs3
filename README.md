@@ -1,1 +1,2 @@
-# 9magnesiumcs3
+Ezekiel Gimmo S. Sta. Cruz
+9 - Magnesium
