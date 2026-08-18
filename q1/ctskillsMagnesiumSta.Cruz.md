@@ -1,7 +1,7 @@
 CS3 Github Portfolio: Computational Skills
 My chosen scenario is Annex B: Smart Vending Machine
 Main problem: What coding loops and identifiers I have to use, how the program will move.
-Sub problems: Time and efficiency of the code
+Sub problems: Time and efficiency of the code due to the code using multiple loops.
 Approach: I will make a flowchart and split the code into multiple parts
 Pseudocode:
 ### Smart Vending Machine
