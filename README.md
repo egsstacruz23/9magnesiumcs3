@@ -9,3 +9,5 @@
 ## Activities
 * [View my Computational Thinking Exercise](q1/ctskillsMagnesiumSta.Cruz.md)
 * [View my Chinese Zodiac Exercise](q1/zodiacMagnesiumSta.Cruz.py)
+* [View my Chinese Zodiac Exercise](q1/zodiacDocumentation.md)
+
