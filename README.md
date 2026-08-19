@@ -9,4 +9,4 @@
 ## Activities
 ### Computational Thinking Skills
 [View my Computational Thinking Exercise](q1/ctskillsMagnesiumSta.Cruz.md)
-[View my Chinese Zodiac Exercise](q1/zodiacMagnesiumSta.Cruz.md)
+[View my Chinese Zodiac Exercise](q1/zodiacMagnesiumSta.Cruz.py)
