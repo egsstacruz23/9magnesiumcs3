@@ -4,5 +4,5 @@
 * c. If the user enters an invalid year then display an appropriate message then stop or abort the program
 
 # Successful use of code
-* [View my Chinese Zodiac Exercise](q1/Sta. Cruz_Magnesium.png)
+[View my Chinese Zodiac Exercise](q1/Sta.-Cruz_Magnesium.png)
 
