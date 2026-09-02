@@ -10,7 +10,7 @@
 |Availability |Boolean |If the food is available. |
 ## Methods
 | Method | Description |
-|---|---|| | |
+|---|---|
 |Open_Container |Open the container of the food |
 |Eat_Food |Take the food and consume it. |
 
@@ -22,3 +22,4 @@ I chose this class because I am always in the canteen and eating snacks/meals. I
 ### Which property is the most important? Why?
 The most important property is the price of the food. Because some students tend to overspend which leads to some unwanted situation.
 ### Which method is the most useful? Why?
+The most useful is Eat_Food because it consumes the food that was bought
