@@ -9,10 +9,10 @@ Adding image for class diagran
 ## Visibility Decisions
 | Attribute | Data Type | Visibility | Reason |
 |---|---|---|---|
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+|type |str |public |Describes the type of car and brand. |
+|price |float|public |To inform the buyer about the price. |
+|color |str |public |The color can be directly scene |
+|_speed |int |private |The speed should be controlled by methods instead of directly. |
 ## Updated UML Class Diagram
 ![Class Diagram](images/classDiagramSG5.png)
 ## Python Implementation
