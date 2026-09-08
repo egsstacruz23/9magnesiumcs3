@@ -4,7 +4,7 @@ Link to my previous activity:
 [classObjectUML.md](classObjectUML.md)
 ## Design Revision
 Describe any changes made to your original class.
-Adding image for class diagram
+Adding image for class diagram. I also changed the theme from canteen to cars.
 
 ## Visibility Decisions
 | Attribute | Data Type | Visibility | Reason |
