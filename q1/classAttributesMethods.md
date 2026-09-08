@@ -19,7 +19,7 @@ Adding image for class diagram. I also changed the theme from canteen to cars.
 
 [View Python Source](classImplementation.py)
 ## Test Run
-![Test Run](images/classTestRun.png)
+![Test Run](images/classTestRun.PNG)
 ## Object Diagram
 ![Object Diagram](images/objectDiagram.png)
 ## Analysis
