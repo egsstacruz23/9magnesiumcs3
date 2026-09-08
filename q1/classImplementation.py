@@ -1,5 +1,19 @@
-class YourClass:
-  def __init__(self, value1, value2, value3):
-  self.attribute1 = value1
-  self.attribute2 = value2
-  self.__private_attribute = value3
+class Car:
+  def __init__(self, type, price, color):
+  self.type = type
+  self.price = price
+  self.color = color
+  self.__speed = 0
+
+  def accelerate(self):
+    self.__speed += 10
+
+  def brake(self):
+    if self.__speed >= 10
+      self.__speed -= 10
+
+  def get_speed(self):
+    return self.__speed
+    
+Car1 = (Toyata, 500, Red)
+Car2 = 
