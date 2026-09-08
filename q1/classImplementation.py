@@ -15,5 +15,5 @@ class Car:
   def get_speed(self):
     return self.__speed
     
-Car1 = (Toyata, 500, Red)
-Car2 = 
+Car1 = (Toyata, 500000, Red)
+Car2 = (Tesla, 10000000, Silver)
