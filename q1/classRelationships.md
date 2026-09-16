@@ -13,7 +13,22 @@
 #### Explanation:  A car needs a driver to be used, and a driver needs a car to be able to go to some places.
 ## Multiplicity
 #### Multiplicity: 
+| Minimum and Maximum of Atributes | Description/Label |
+|---|---|
+| 4 | Wheels of the car |
+| 1..* | Chairs |
+| * | Bodykits and mods |
+| 1 | Engine |
+| 0..2 | Turbo |
+| Minimum and Maximum of Atributes | Description/Label |
+|---|---|
+| 4 | Wheels of the car |
+| 1..* | Chairs |
+| * | Bodykits and mods |
+| 1 | Engine |
+| 0..2 | Turbo |
 
+## Updated UML Class Diagram
 #### Explanation: 
 ## UML Class Relationship Diagram 
 ![Class Relationship Diagram](images/classRelationshipDiagram.png) 
