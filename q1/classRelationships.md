@@ -24,11 +24,10 @@
 ###### Driver:
 | Minimum and Maximum of Atributes | Description/Label |
 |---|---|
-| 4 | Wheels of the car |
-| 1..* | Chairs |
-| * | Bodykits and mods |
-| 1 | Engine |
-| 0..2 | Turbo |
+| 1 | Steering wheel to hold |
+| 0..* | Traffic violations |
+| * | Cars owned |
+| 1 | Current Car Operating |
 
 ## Updated UML Class Diagram
 #### Explanation: 
