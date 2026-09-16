@@ -13,6 +13,7 @@
 #### Explanation:  A car needs a driver to be used, and a driver needs a car to be able to go to some places.
 ## Multiplicity
 #### Multiplicity: 
+###### Car:
 | Minimum and Maximum of Atributes | Description/Label |
 |---|---|
 | 4 | Wheels of the car |
@@ -20,6 +21,7 @@
 | * | Bodykits and mods |
 | 1 | Engine |
 | 0..2 | Turbo |
+##### Driver:
 | Minimum and Maximum of Atributes | Description/Label |
 |---|---|
 | 4 | Wheels of the car |
