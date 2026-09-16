@@ -3,14 +3,14 @@
 [Part I - Classes and Objects](classObjectUML.md) 
 [Part II - Class Attributes and Methods](classAttributesMethods.md) 
 ## Existing Class 
-Class: Cars
-Description: A type of vehicle with different brands.
+### Class: Cars
+### Description: A type of vehicle with different brands.
 ## New Related Class 
-Class: Driver
-Description: The one in control of the car or any vehicle.
+### Class: Driver
+### Description: The one in control of the car or any vehicle.
 ## Association 
-Relationship: A car needs a driver to be used, and a driver needs a car to be able to go to some places.
-Explanation:  A car needs a driver to be used, and a driver needs a car to be able to go to some places.
+### Relationship: A car needs a driver to be used, and a driver needs a car to be able to go to some places.
+### Explanation:  A car needs a driver to be used, and a driver needs a car to be able to go to some places.
 ## Multiplicity
 Multiplicity: 
 Explanation: 
