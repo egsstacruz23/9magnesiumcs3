@@ -52,3 +52,37 @@ class Driver:
             print(car.brand, car.color)
 
 driver1 = Driver("Human", "Healthy", "Racing Suit")
+
+Car1 = Car("Toyota", 1200000, "Red")
+Car2 = Car("Honda", 1500000, "Blue")
+Car3 = Car("Ford", 2500000, "Black")
+Car4 = Car("BMW", 4000000, "White")
+Car5 = Car("Tesla", 3000000, "Silver")
+
+driver1.add_car(car1)
+driver1.add_car(car2)
+driver1.add_car(car3)
+driver1.add_car(car4)
+driver1.add_car(car5)
+
+print("Cars connected")
+
+driver1.display_info()
+
+for car in driver1.cars:
+    print(
+        car.brand,
+        "Price:", car.price,
+        "Color", car.color,
+        "Speed:", car.get_speed(),
+        "Driver Race:", car.driver.race,
+    )
+
+driver1.luck()
+
+print("Updated Crash Chance:", driver1.get_luck(), "%")
+
+if driver1.check_crash():
+    print("The driver crashed!")
+else:
+    print("The driver did not crash.")
