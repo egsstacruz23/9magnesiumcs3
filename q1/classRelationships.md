@@ -41,7 +41,12 @@
 ![Object Relationship Diagram](images/objectRelationshipDiagram.png) 
 ## Analysis 
 ### What is the association between your two classes? 
+The association is that my two classes are connected to each other because a driver can own or drive cars. The drivers can also acess the information of their owned cars.
 ### What multiplicity did you choose and why? 
+I chose 4 for wheels because a car requires 4 wheels to be driven properly. I chose 1 to many seats for a car because there are some types of cars that only have one seat such as race cars, and there are cars that have more than 4 seats such as vans and SUVs. I chose many for bodykits and design because a car can have many design choices. By design there is only 1 engine for a car and it only varies due to size or modifications. A car can also have turbo or not I chose 2 as the maximum because from what I remember the max is twin turbos therefore 2. A driver can only hold one steering wheel. Have none or many traffic violations or tickets. A driver may also have more than 1 vehicle. And a driver can only operate one car at a time due to him having to be physically present.
 ### How did you implement the relationship in Python? 
+I connected it by making the car require a driver, and the driver can affect the car by causing accidents through the private attribute "Luck".
 ### Why did you store an object reference instead of copying its data? 
+So the driver can access the actual car object and affect its luck attribute.
 ### If your relationship uses many, why is a list appropriate? 
+The list is required to store the objects instead of their names.
