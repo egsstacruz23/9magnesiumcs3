@@ -1,25 +1,25 @@
 # SG4 - Understanding Classes and Objects
 ## Food
-## Types of foods and their respective categories
+## Types of cars and their respective attributes
 ## Properties
 | Property | Data Type | Description |
 |---|---|---|
-|Name of Food |String |What the food is called. |
-|Amount of Calories |Integer |How much calories each serving has. |
-|Price |Integer |How much the type of food costs. |
-|Availability |Boolean |If the food is available. |
+|Brand |String |What the food is called. |
+|Speed |Integer |How fast the car is going |
+|Price |Integer |How much the car costs |
+|Driving |Boolean |If the car is moving |
 ## Methods
 | Method | Description |
 |---|---|
-|Open_Container |Open the container of the food |
-|Eat_Food |Take the food and consume it. |
+|Brake |Reduces the speed by 5 |
+|Speed_up |Accelerate by 10 |
 
 ## Class Diagram
 ![Class Diagram](images/classDiagram.png)
 ## Design Explanation
 ### Why did you choose this class?
-I chose this class because I am always in the canteen and eating snacks/meals. I need it for budgeting and learning what are my most favorite food.
+I chose this class because I am extremely fond of classes
 ### Which property is the most important? Why?
-The most important property is the price of the food. Because some students tend to overspend which leads to some unwanted situation.
+The most important property is the price because most people look at price
 ### Which method is the most useful? Why?
-The most useful is Eat_Food because it consumes the food that was bought
+The most useful is Speed_up which helps the car move.
