@@ -26,4 +26,6 @@ The existing system contains my Car and Driver classes. The car contains informa
 Answers:
 #### 1. I chose Car as the parent class and SportsCar as the child class because of their real life correlation wherein the SportsCar is a type of car. They have similar characteristics except for the fact the child class has an additional method and attribute related to turbo which makes the car faster.
 #### 2. Inheritance makes the code less longer because you have to skip redefining a new class instead of just doing inheritance. It reuses all the attributes but adds new attributes and methods.
-#### 3. 
+#### 3. The HAS-A relation I implemented was composition because the car creates its own engine. The engine is just a component in my system. Meaning the car owns the engine instead of being a seperate entity.
+#### 4. Association basically means the two classes are connected but dont own each other. In part 3 the car is associated with the driver, but in this code the car directly owns the engine.
+#### 5. Yes it follows the dry principle, Because I only pasted the car code once, so SportsCar can reuse the attribute of the parent class.
