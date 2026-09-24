@@ -14,3 +14,4 @@
 * [View my OOP Act](q1/classObjectUML.md)
 * [View my OOP Activity 2](q1/classAttributesMethods.md)
 * [View my OOP Activity 3](q1/classRelationships.md)
+* [View my OOP Activity 4](q1/advancedRelationships.md)
