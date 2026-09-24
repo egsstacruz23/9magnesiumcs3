@@ -4,7 +4,7 @@
 ## Properties
 | Property | Data Type | Description |
 |---|---|---|
-|Brand |String |What the food is called. |
+|Brand |String |What the brand of the car is |
 |Speed |Integer |How fast the car is going |
 |Price |Integer |How much the car costs |
 |Driving |Boolean |If the car is moving |
