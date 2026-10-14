@@ -1,13 +1,27 @@
 ## Defines the bank account class
 class BankAccount:
-  def __init__(self, account_number, balance):
+  def __init__(self, account_number: int, balance: float):
     self.__account = account_number
     self.__balance = balance
 
+  ## setter and getter methods for account number
+  def set_account_number(self, account_number):
+    self.__account = account_number
+  
   def get_account_number(self):
     return self.__account
 
+  ## setter and getter methods balance
+  def set_account_number(self, account_number):
+    self.__account = account_number
+    
+  def get_balance(self):
+    return self.__balance
+
    
 ## Prints the output
+print("Account number 1")
 a1 = BankAccount(12345, 1000)
 print("Account number: ", a1.get_account_number())
+print("Balance: ", a1.get_balance())
+print("")
