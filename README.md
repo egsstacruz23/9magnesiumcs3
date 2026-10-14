@@ -6,7 +6,7 @@
 
 ---
 # Quarter 1
-## Activities
+## Activities:
 * [View my Computational Thinking Exercise](q1/ctskillsMagnesiumSta.Cruz.md)
 * [View my Chinese Zodiac Exercise](q1/zodiacMagnesiumSta.Cruz.py)
 * [View my Chinese Zodiac Documentation](q1/zodiacDocumentation.md)
@@ -15,3 +15,6 @@
 * [View my OOP Activity 2](q1/classAttributesMethods.md)
 * [View my OOP Activity 3](q1/classRelationships.md)
 * [View my OOP Activity 4](q1/advancedRelationships.md)
+# Quarter 2
+## Actvities:
+* [View my Encapsulation Activity Code](q2/sg8_encapsulation.py)
