@@ -1,6 +1,6 @@
 ## Defines the bank account class
 class BankAccount:
-  def __init__(self, account_number: int, balance: float):
+  def __init__(self, account_number: int, balance: float = 0.0):
     self.__account = account_number
     self.__balance = balance
 
@@ -12,7 +12,7 @@ class BankAccount:
     return self.__account
 
   ## setter and getter methods balance
-  def set_account_number(self, balance: float):
+  def set_account_number(self, balance: float = 0.0):
     self.__balance = balnce
     
   def get_balance(self):
