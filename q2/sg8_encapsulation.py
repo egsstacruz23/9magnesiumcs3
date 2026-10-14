@@ -5,15 +5,15 @@ class BankAccount:
     self.__balance = balance
 
   ## setter and getter methods for account number
-  def set_account_number(self, account_number):
+  def set_account_number(self, account_number: int):
     self.__account = account_number
   
   def get_account_number(self):
     return self.__account
 
   ## setter and getter methods balance
-  def set_account_number(self, account_number):
-    self.__account = account_number
+  def set_account_number(self, balance: float):
+    self.__balance = balnce
     
   def get_balance(self):
     return self.__balance
