@@ -18,3 +18,4 @@
 # Quarter 2
 ## Actvities:
 * [View my Encapsulation Activity Code](q2/sg8_encapsulation.py)
+* [View my Inheritance Activity Code](q2/sg9_inheritance.py)
