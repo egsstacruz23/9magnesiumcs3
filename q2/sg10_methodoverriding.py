@@ -13,9 +13,9 @@ class Lion(Animal):
         super().__init__(name) #Initializes the constructor of the parent class to add the name attribute
         
     def make_sound(self): #Adds the make_sound method for the child class to make it different from the parent class
-        print("The lionroars loudly.")
+        print("The lion roars loudly.")
         
-    def eat(self): #Overrides the eat method for the Lion class
+    def eat(self): #Overrides and adds the modified eat method for the Lion class
         print("The lion eats fresh meat.")
         
 class Elephant(Animal):
@@ -25,8 +25,8 @@ class Elephant(Animal):
     def make_sound(self): #Adds the make_sound method for the child class to make it different from the parent class
         print("The elephant trumpets.")
         
-    def eat(self): #Overrides the eat method for the Elephant class
-        print("The elephant eats grass and leaves.")
+    def eat(self): #Overrides and adds the modified eat method for the Elephant class
+        print("The elephant eats grass and fruits.")
         
 class Monkey(Animal):
     def __init__(self, name):
@@ -38,3 +38,18 @@ class Monkey(Animal):
     def eat(self): #Overrides the eat method for the Monkey class
         print("The monkey eats bananas.")
 
+lion = Lion("Simba")
+elephant = Elephant("Dumbo")
+monkey = Monkey("George")
+
+print(lion.make_sound())
+print(lion.eat())
+print("---------------")
+
+print(elephant.make_sound())
+print(elephant.eat())
+print("---------------")
+
+print(monkey.make_sound())
+print(monkey.eat())
+print("---------------")
