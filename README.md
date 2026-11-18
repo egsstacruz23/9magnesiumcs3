@@ -20,3 +20,5 @@
 * [View my Encapsulation Activity Code](q2/sg8_encapsulation.py)
 * [View my Inheritance Activity Code](q2/sg9_inheritance.py)
 * [View my Method overriding](q2/sg10_methodoverriding.py)
+* [View my Activity 1](q2/sg10_methodoverriding.py)
+* [View my Activity 2](q2/sg10_methodoverriding.py)
